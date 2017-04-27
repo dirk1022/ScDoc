@@ -1,0 +1,11 @@
+root@chenwenjie-VirtualBox:~# docker run -it -p 1999:1999 chaincore/developer
+Initializing Chain Core...
+Listening on: http://localhost:1999
+Client access token: client:5ca27105df3702c7761ad73a823f74f2a430d2667e14a39619115d2566492367
+Chain Core is online!
+Chain Core starting...
+
+cored (Chain Core) 1.1.3
+production: false
+build-commit: e8759df44e7af060f2489bbec297912d127c29cd
+build-date: 1489022515
